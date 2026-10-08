@@ -1,1 +1,7 @@
-
+{
+  "version": "7.0",
+  "url": "https://github.com/alzaubi/volt_gwm/releases/download/v7.0/VOLT.apk",
+  "notes": "VOLT 7.0 BYD for Denza B8: the SmartSplit BYD cluster implementation with 10 selectable gauge themes, live BYD speed, fuel, engine-temperature and battery-temperature data, compact cluster mouse pad, panel controls, and reduced legacy theme payload.",
+  "sha256": "88CBD0ECAD8EF1953BEB4C3C56DF6D00BC1A9B18875FED168FCDE763EA426F54",
+  "size": 52856803
+}
